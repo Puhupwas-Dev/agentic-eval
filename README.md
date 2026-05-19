@@ -67,11 +67,3 @@ text
 
 ---
 
-## ✅ How to use
-
-1. Replace the current `README.md` in your `agentic-eval` repo with the above content.
-2. Commit and push to your dev branch.
-
-Your repo will now look like a personal evaluation sandbox – no public branding, no badges, no external bootcamp references. Perfect for private development or internal team sharing.
-
-Let me know if you want me to also clean up the module‑level `README.md` files inside `implementations/` directories.
